@@ -1,6 +1,6 @@
 # Modern C++ Learning in Public - Episode 3
 
-**Lesson 3: Setting Up C++ on Windows with Visual Studio**
+## Lesson 3: Setting Up C++ on Windows with Visual Studio
 
 In this lesson, we’ll set up a C++ development environment on Windows using Microsoft Visual Studio. Visual Studio is a full-featured IDE that supports modern C++ standards and provides helpful tools like IntelliSense, code completion, and integrated debugging.
 
